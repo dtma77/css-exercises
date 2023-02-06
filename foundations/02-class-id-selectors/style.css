@@ -1,0 +1,25 @@
+/* style.css for exercise 2 */
+
+/*for odd numbered elements*/
+.odd-number{
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* this is for the second element*/
+#blue-id{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/* this is for the third element*/
+.odd-number.cooler{
+    font-size: 24px;
+}
+
+/*this is for the fourth element*/
+#green-id{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
